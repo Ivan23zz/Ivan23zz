@@ -1,7 +1,7 @@
 # 👋 ¡Hola, mi nombre es Rodrigo Ovelar!
 
 ### 💡 Sobre mí
-Desarrollador apasionado por el backend y frontend. Me encanta aprender tecnologías modernas y crear soluciones eficientes.
+Desarrollador apasionado por el backend y frontend. Aprendiendo siempre tecnologías modernas y creando soluciones eficientes.
 
 ---
 
